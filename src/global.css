@@ -1,0 +1,34 @@
+
+.container{
+    margin-top: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+    background-color: #DEF9C4;  
+    border-radius: 15px;
+}
+
+.list-group-item-primary{
+    background-color: black;
+}
+
+.list-group-item{
+
+    border: 1px solid #03055e78 !important;
+    color: #000605;
+}
+
+
+.listgroup-item:hover{
+    background-color: #000605;
+    cursor: pointer;
+    color:#ffffff;
+}
+
+
+.listgroup-item a{
+    
+    color: #9CDBA6;
+    text-decoration: none;
+}
+
